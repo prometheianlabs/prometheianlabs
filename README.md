@@ -1,16 +1,19 @@
-## Hi there 👋
+# Colt Burdine
 
-<!--
-**prometheianlabs/prometheianlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build Cloudflare-native business software, internal operations platforms, and AI-assisted tooling through Prometheian Labs.
 
-Here are some ideas to get you started:
+## Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cloudflare Workers, Pages, D1, R2, and deployment workflows
+- React and Angular interfaces for internal tools and client systems
+- CRM, accounting, and operations software for service businesses
+- AI-assisted automation, validation, and implementation workflows
+
+## Public links
+
+- Website: [coltburdine.dev](https://coltburdine.dev)
+- GitHub: [prometheianlabs/radio-clipper](https://github.com/prometheianlabs/radio-clipper)
+
+## Notes
+
+Most current production work lives in private repositories for client delivery or internal systems.
